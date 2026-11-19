@@ -1,0 +1,1 @@
+Copy your own photo into this folder and name it student.jpg. The website uses /images/student.jpg as the logo.
